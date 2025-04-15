@@ -90,3 +90,10 @@
 ---
 
 🚀 *Let's connect and build amazing things together!*
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/DJ918145/DJ918145/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
