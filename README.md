@@ -1,99 +1,66 @@
-<h1 align="center">Hi 👋, I'm Jain Dhruv Vijaykumar</h1>
-<h3 align="center">Engineering Student | Python & ML Developer | Tech Explorer</h3>
+# Hi 👋, I'm Jain Dhruv Vijaykumar
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
+### 🚀 Jr. Java Backend Developer | ML Engineer | Tech Explorer
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=DJ918145&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+I am an Engineering Student and software developer deeply invested in building scalable backends and intelligent systems. Currently, I am sharpening my industry skills in enterprise environments while continuing to explore cutting-edge AI/ML models and mobile ecosystems.
 
 ---
 
-## 🚀 About Me
+## 💼 Professional Experience
 
-- 🎓 Engineering student passionate about **Machine Learning**, **Python development**, and **Web development**
-- 📱 Currently learning **Android Development**
-- 👯 Collaborating on **AI/ML Projects**
-- 💬 Ask me about **Python, Java, Machine Learning**
-- 🤝 Open to help and learn **ML Concepts**
-- 📫 Reach me at **dhruvjain20102004@gmail.com**
-- ⚡ Fun fact: I might be shy in person but my code speaks loud 😄
+* **Jr. Java Backend Developer** at **Asint India Pvt. Ltd.** *(December 2025 — Present)*
+  * Architecting and optimizing robust backend services using Java.
+  * Collaborating on database management and clean API design to power seamless application ecosystems.
+
+---
+
+## 🚀 My Current Workspace
+
+- 🛠️ **Currently working at:** Asint India Pvt. Ltd.
+- 🎓 **Education:** Engineering Student passionate about AI/ML architectures
+- 📱 **Current Focus:** Masterclassing Android Development & Deep Learning concepts
+- 🤝 **Collaboration:** Looking to contribute to innovative open-source AI/ML tools
+- 💬 **Ask me about:** Java Backend, Python, Core ML architectures, or Backtracking algorithms
+- 📫 **Reach me at:** dhruvjain20102004@gmail.com
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DJ918145&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true" alt="Dhruv's GitHub Stats" />
+</p>
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-**Languages & Tools:**
+### 💻 Languages & Core Development
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-<p align="left">
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/></a>
-  <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/></a>
-</p>
+### 🤖 Machine Learning & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv&logoColor=black)
+
+### 🌐 Web Frameworks & Databases
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🔧 Tools & Design
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
 ## 📌 Featured Projects
 
-- 🔍 [**LeetCode Problem Solutions**](https://github.com/DJ918145/leetcode_problem_solution) - Pythonic solutions to coding interview problems  
-- 🧠 [**Sudoku Solver**](https://github.com/DJ918145/Sudoku_Solver_Project) - Solver using recursion & backtracking  
-- 🌦️ [**Weather App**](https://github.com/DJ918145/Weather_App) - Real-time weather using WeatherAPI  
-- 🎤 [**Voice Assistant**](https://github.com/DJ918145/Voice_assistant) - Python-based voice automation  
-- 📊 [**WhatsApp Data Analysis**](https://github.com/DJ918145/Whatsapp_data_analysis) - Insights from WhatsApp chat data
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DJ918145&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DJ918145&show_icons=true&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DJ918145&theme=radical" alt="GitHub Streak" />
-</p>
+* **🧠 [Disease Prediction](https://github.com/DJ918145/Disease_prediction)** — An intelligent ML system built in Jupyter Notebooks to predict health outcomes based on key medical parameters.
+* **🔍 [LeetCode Solutions](https://github.com/DJ918145/leetcode_problem_solution)** — A continuously updated repository featuring optimized, Pythonic approaches to complex algorithmic challenges.
+* **🎬 [Movie Recommendation System](https://github.com/DJ918145/movie_recommendation-)** — A Python-driven recommendation engine tailored to user preferences using content/collaborative filtering techniques.
+* **📊 [WhatsApp Data Analysis](https://github.com/DJ918145/Whatsapp_data_analysis)** — Deep dive behavioral and NLP-driven conversational insights extracted from chat exports.
+* **🤖 [Voice Assistant](https://github.com/DJ918145/Voice_assistant)** — A smart, desktop automation tool crafted entirely in Python to make hands-free tasks seamless.
 
 ---
 
 ## 🌐 Connect with Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/dhruvjain2010/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/dj20101004/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-  <a href="https://medium.com/@dj20101004" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-  </a>
-  <a href="https://www.codechef.com/users/dhruvjain2010" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-  </a>
-  <a href="https://www.hackerearth.com/dj20101004" target="_blank">
-    <img src="https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/dhruvjain._.2010" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
+Let's collaborate, exchange ideas, or just chat about tech!
 
----
-
-🚀 *Let's connect and build amazing things together!*
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/DJ918145/DJ918145/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruvjain2010) [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/dj20101004/) [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-1823-8031)
